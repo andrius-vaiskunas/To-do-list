@@ -18,7 +18,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: var(--dark);
+  background: var(--darkest);
   color: #fff;
 }
 
@@ -103,7 +103,7 @@ h2 {
 #tasks .task {
   display: flex;
   justify-content: space-between;
-  background-color: var(--darkest);
+  background-color: var(--darker);
   padding: 1rem;
   border-radius: 1rem;
   margin-bottom: 1rem;
